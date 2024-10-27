@@ -1,2 +1,2 @@
-conda/miniconda3
 ubuntu:22.04
+continuumio/anaconda3
