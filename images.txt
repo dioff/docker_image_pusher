@@ -3,3 +3,4 @@ ubuntu:22.04
 continuumio/anaconda3
 dreamacro/clash
 haishanh/yacd
+emqx
