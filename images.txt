@@ -4,3 +4,4 @@ continuumio/anaconda3
 dreamacro/clash
 haishanh/yacd
 emqx
+nvidia/cuda:12.9.0-cudnn-devel-ubuntu22.04
